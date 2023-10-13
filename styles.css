@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Croissant+One&family=DM+Sans:opsz@9..40&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Croissant+One&family=DM+Sans:opsz@9..40&display=swap');
+
+body{
+    background: #2F1893;
+
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%; 
+    margin-top: 30px;
+}
+
+.links{
+    list-style: none;
+}
+
+.links li{
+    display: inline-block;
+    padding: 0px 15px;
+    font-size: 18px;
+    font-family: "DM Sans";
+    color: white;
+}
+
+#purple{
+    font-family: "DM Sans";
+    color: #ffffff;
+    opacity: 0.3;
+}
+.sample{
+    margin-right: 331px;
+    font-size: 24px;
+    font-family: "DM Sans";
+    color: white;
+}
+
+.nav-button{
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    border-style: none;
+    background-color: #E93A7D;
+    color: white;
+    margin-left: 30px;
+   
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px
+}
+
+
+.content{
+    margin-left: 350px;
+    box-sizing: border-box;
+    width: 310px;
+    height: 500px
+    
+}
+
+h2{
+    font-size:58px;
+    width: 424px;
+    margin-bottom: 15px;
+    color: white  ;
+    font-family: "DM Sans";
+}
+
+.content>p{
+    font-size: 22px;
+    color: white;
+    font-family: "DM Sans";
+    width: 360px;
+    
+}
+
+.content-button{
+    color: white;
+    background-color: #E93A7D;
+    border: none;
+    border-radius: 50px;
+    width: 157px ;
+    height: 50px;
+
+}
+
+.container-form{
+    border: 2px solid black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 470px;
+    height: 600px;
+    margin: 10px 50px;
+    box-sizing: border-box;
+    background-color: white;
+    border-style: none;
+    margin-right: 150px;
+}
+
+h3{
+    font-size: 43px;
+    margin-bottom: 20px;
+    font-family: "DM Sans";
+    color: #1E0E62;
+
+}
+input{
+    margin-bottom: 15px;
+}
+
+.text{
+    width: 330px;
+    height: 50px;
+    border-radius: 50px;
+    text-indent: 10px;
+    border-style: none;
+    background-color: #EBEAED;
+    font-family: "DM Sans";
+}
+
+.check{
+    font-size: 14px;
+    font-family: "DM Sans";
+    accent-color: #25DAC5;
+
+
+}
+
+label{
+    color: #15143966;
+    font-family: "DM Sans";
+}
+
+
+#voilet{
+    width: 330px;
+    height: 50px;
+    border-radius: 50px;
+    font-family: "DM Sans";
+    background: #482BE7;
+    border-style: none;
+    color: white;
+
+}
+
+#blue{
+    width: 330px;
+    height: 50px;
+    border-radius: 50px;
+    font-family: "DM Sans";
+    background: #1DA1F2;
+    border-style: none;
+    color: white;
+
+}
+
+
+.hline {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    line-height: 0.1em;
+    margin: 20px 0;
+}
+
+.hline span {
+    background-color: #fff;
+    padding: 0 10px;
+    font-family: "DM Sans";
+    color: #555;
+}
+
+.container-form p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "DM Sans";
+}
+
+a{
+    text-decoration: none;
+    color: #25DAC5;
+    font-family: "DM Sans";
+}
+
